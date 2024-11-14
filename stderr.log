@@ -1,0 +1,929 @@
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:168:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:168:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:168:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:168:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:182:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:168:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:168:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+Database query error: { Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at app.get (/home/heelmadh/riya.heelmadhurya.in/index.js:168:6)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/10/lib/node_modules/express/lib/router/index.js:280:10) fatal: true }
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+/home/heelmadh/riya.heelmadhurya.in/index.js:473
+const multer = require('multer');
+      ^
+
+SyntaxError: Identifier 'multer' has already been declared
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+
+Node.js v18.20.4
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:662:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:541:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:662:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:303:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at done (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:45:7)
+    at indicateDone (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:49:68)
+    at Multipart.<anonymous> (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:166:7)
+    at Multipart.emit (node:events:517:28)
+    at emitCloseNT (node:internal/streams/destroy:132:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:455:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at done (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:45:7)
+    at indicateDone (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:49:68)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:155:11
+    at WriteStream.<anonymous> (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/storage/disk.js:43:9)
+    at WriteStream.emit (node:events:529:35) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:303:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at done (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:45:7)
+    at indicateDone (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:49:68)
+    at Multipart.<anonymous> (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/multer/lib/make-middleware.js:166:7)
+    at Multipart.emit (node:events:517:28)
+    at emitCloseNT (node:internal/streams/destroy:132:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:144:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:541:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:541:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:541:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:108:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:541:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:541:8
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
+Database query error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:164:17)
+    at Connection.query (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/mysql2/lib/connection.js:575:17)
+    at /home/heelmadh/riya.heelmadhurya.in/index.js:168:6
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/heelmadh/nodevenv/riya.heelmadhurya.in/18/lib/node_modules/express/lib/router/index.js:280:10) {
+  fatal: true
+}
